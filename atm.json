@@ -1,0 +1,28 @@
+{
+    "672": {
+        "username": "nikhil",
+        "account_created": "2023-06-16 16:06:57",
+        "total_money": 24,
+        "transaction_date": [
+            "W 2023-06-19 04:47:35PM None 4",
+            "D 2023-06-19 04:47:55PM None 10",
+            "T 2023-06-19 04:48:12PM 215 10"
+        ]
+    },
+    "215": {
+        "username": "parimal",
+        "account_created": "2023-06-16 20:23:33",
+        "total_money": 3215,
+        "transaction_date": [
+            "R 2023-06-19 04:48:12PM 672 10"
+        ]
+    },
+    "564": {
+        "username": "ganesh",
+        "account_created": "2023-06-16 10:25:39PM",
+        "total_money": 287,
+        "transaction_date": [
+            "D 2023-06-19 01:56:00PM None 100"
+        ]
+    }
+}
